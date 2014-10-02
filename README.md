@@ -3,4 +3,4 @@ samoocab
 
 Samoo CAB
 
-premier commentaire via vim
+premier commentaire modifié en ligne
